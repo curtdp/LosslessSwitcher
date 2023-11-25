@@ -102,6 +102,7 @@ Regardless, you are still reminded to use LosslessSwitcher at your own risk.
 |      Intel      | Mac mini (Late 2014)                                 | 13.5 (Opencore) | No    | VLink192 to Rega DAC |
 |  Apple Silicon  | MacBook Pro 16 inch (M1 Max, 2021)                   | 14.0            | 23A5328b | Focusrite Scarlett 2i2 3rd Gen, Internal MacBook DAC |
 |      Intel      | MacBook Air 13 inch (2020 i5 1.1 Ghz Quad-Core)       | 14.0         | 23A5328d    | PreSonus Studio 1810c |
+|  Apple Silicon  | MacBook Pro 16 inch (M1 Max, 2021)                   | 14.1.1          | No    | RME ADI-2/4 PRO SE |
 
 You can add to this list by modifying this README and opening a new pull request!
 
